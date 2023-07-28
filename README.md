@@ -1,4 +1,4 @@
-# LSTM_SUMMARY
+# LSTM_SUMMARY_model
 Writing a news summary with the help of LSTM. To see how it works and what improvement it needed.
 This is a summary making model
 
